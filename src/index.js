@@ -5,6 +5,7 @@ import './css/style.css';
 
 import App from './components/App'
 // import MainPage from './components/MainPage'
+// import MainPage from './components/MainPage'
 
 
 render(
